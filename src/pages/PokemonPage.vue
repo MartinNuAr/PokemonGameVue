@@ -39,7 +39,8 @@ export default {
             pokemonArr: [],
             pokemon: null,
             showPokemon: false,
-            showAnswer: false
+            showAnswer: false,
+            message: ''
         }
     },
     methods: {
